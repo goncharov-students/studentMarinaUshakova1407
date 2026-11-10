@@ -1,0 +1,9 @@
+pandas, numpy — для работы с таблицами и матрицами.
+
+scikit-learn — для CountVectorizer, TfidfVectorizer, cosine_similarity и PCA.
+
+matplotlib — для построения графиков (топ-15 слов, гистограмма длин, PCA).
+
+pymorphy3 — для лемматизации русского текста.
+
+nltk — использовался в задании 3.3 для загрузки списка русских стоп-слов (так как встроенный stop_words='russian' не работает в sklearn).
